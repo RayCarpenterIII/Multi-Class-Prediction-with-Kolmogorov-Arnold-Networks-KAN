@@ -1,4 +1,4 @@
-# Multi-Class-Prediction-with-Kolmogorov-Arnold-Networks-KAN-
+# Multi-Class-Prediction-with-Kolmogorov-Arnold-Networks-KAN
 Multi-Class Prediction with Kolmogorov-Arnold Networks (KAN)
 
 This notebook applies the Kolmogorov-Arnold Networks (KAN) architecture to visual stimulus prediction in mice, given the firing rates of single neurons.
